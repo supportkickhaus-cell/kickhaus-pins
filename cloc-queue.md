@@ -23,7 +23,7 @@ Beschreibung:
 | 2 | gepostet | Air Jordan 1 High „Rookie of the Year“ | AJ1High-RookieOfTheYear | Der High-Top-Klassiker in Gold und Schwarz – eine Hommage an Jordans erstes großes Jahr. |
 | 3 | gepostet | Air Jordan 1 Low x Travis Scott „Black Phantom“ | AJ1Low-TS-BlackPhantom | Komplett in Schwarz mit Reverse-Swoosh – dezent, dunkel und extrem gefragt. |
 | 4 | gepostet | Air Jordan 1 Mid „Flight“ | AJ1-FlightMid | Der Mid-Cut für jeden Tag – klassische Jordan-Silhouette mit Flight-Details. |
-| 5 | offen | Air Jordan 1 Low x Travis Scott x Fragment | AJ1Low-TS-Fragment | Die Kollaboration dreier Legenden in Weiß, Blau und Schwarz. |
+| 5 | gepostet | Air Jordan 1 Low x Travis Scott x Fragment | AJ1Low-TS-Fragment | Die Kollaboration dreier Legenden in Weiß, Blau und Schwarz. |
 | 6 | offen | Air Jordan 1 Low x Travis Scott „Pink“ | AJ1Low-TS-Pink | Der Reverse-Swoosh-Low in zartem Pink – ein echter Hingucker. |
 
 ## Gepostet
@@ -34,3 +34,4 @@ Beschreibung:
 | 17.09.2026 22:25 | Air Jordan 1 High „Rookie of the Year“ | 4 | 1089871178607414752 |
 | 18.09.2026 11:06 | Air Jordan 1 Low x Travis Scott „Black Phantom“ | 4 | 1089871178607458452 |
 | 18.09.2026 22:11 | Air Jordan 1 Mid „Flight“ | 4 | 1089871178607490711 |
+| 19.09.2026 11:06 | Air Jordan 1 Low x Travis Scott x Fragment | 4 | 1089871178607537815 |
