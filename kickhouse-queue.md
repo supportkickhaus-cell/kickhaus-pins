@@ -30,7 +30,7 @@ Signaturblock (wörtlich übernehmen):
 
 Immer den obersten Eintrag mit Status „offen" nehmen. „blockiert" und „bild fehlt" überspringen.
 
-### 1. Salomon XT-6 „Black/Silver" — Status: offen
+### 1. Salomon XT-6 „Black/Silver" — Status: gepostet
 - Bilder: `29892a17088054a378e3fe2957264a32.jpg`
 - Modelltext: Technical trail silhouette in black with reflective silver overlays. Built for the trail, styled for the street.
 - Modell-Hashtags: #SalomonXT6 #TrailSneaker #Techwear #BlackSneakers
@@ -64,4 +64,4 @@ Immer den obersten Eintrag mit Status „offen" nehmen. „blockiert" und „bil
 
 | Datum (UTC+8) | Modell | Bilder | Pin-ID |
 |---|---|---|---|
-| — | — | — | — |
+| 2026-09-21 09:03 | Salomon XT-6 „Black/Silver" | 1 | 1100285752847382899 |
