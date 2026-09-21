@@ -22,7 +22,7 @@ Signaturblock (wörtlich übernehmen):
 
 ```
 👑 KICKHOUSE – Luxury Kicks. Exclusive Style. 🔥
-📱 WhatsApp: +86-185 6658 1431
+📱 WhatsApp: +86 195 8628 6566
 #Kickhouse #LuxurySneakers #SneakerCulture #Sneakerhead #DesignerSneakers #StreetwearLuxury #ExclusiveKicks #PremiumStyle #FreshKicks #SneakerCommunity #KicksDaily
 ```
 
