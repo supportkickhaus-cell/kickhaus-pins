@@ -35,7 +35,7 @@ Immer den obersten Eintrag mit Status „offen" nehmen. „blockiert" und „bil
 - Modelltext: Technical trail silhouette in black with reflective silver overlays. Built for the trail, styled for the street.
 - Modell-Hashtags: #SalomonXT6 #TrailSneaker #Techwear #BlackSneakers
 
-### 2. Air Jordan 1 Low „Dusted Clay" — Status: offen
+### 2. Air Jordan 1 Low „Dusted Clay" — Status: gepostet
 - Bilder: `5941fcd6c3c413802dd2bc4ca2d3d64c.jpg`
 - Modelltext: Soft clay and sand suede on a clean AJ1 Low. The easiest warm-tone pair in the rotation.
 - Modell-Hashtags: #AirJordan1 #AJ1Low #Jordan1 #SuedeSneakers
@@ -65,3 +65,4 @@ Immer den obersten Eintrag mit Status „offen" nehmen. „blockiert" und „bil
 | Datum (UTC+8) | Modell | Bilder | Pin-ID |
 |---|---|---|---|
 | 2026-09-21 09:03 | Salomon XT-6 „Black/Silver" | 1 | 1100285752847382899 |
+| 2026-09-23 09:10 | Air Jordan 1 Low „Dusted Clay" | 1 | 1100285752847536052 |
