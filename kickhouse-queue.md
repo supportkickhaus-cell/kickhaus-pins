@@ -40,7 +40,7 @@ Immer den obersten Eintrag mit Status „offen" nehmen. „blockiert" und „bil
 - Modelltext: Soft clay and sand suede on a clean AJ1 Low. The easiest warm-tone pair in the rotation.
 - Modell-Hashtags: #AirJordan1 #AJ1Low #Jordan1 #SuedeSneakers
 
-### 3. New Balance 9060 „Deep Purple" — Status: offen
+### 3. New Balance 9060 „Deep Purple" — Status: gepostet
 - Bilder: `5bdc7e23515a9deb6cf9b2b5432be876.jpg`
 - Modelltext: The 9060 in deep purple suede on a cream midsole. Heavy on comfort, heavier on presence.
 - Modell-Hashtags: #NewBalance9060 #NB9060 #DadShoes #ChunkySneakers
@@ -66,3 +66,4 @@ Immer den obersten Eintrag mit Status „offen" nehmen. „blockiert" und „bil
 |---|---|---|---|
 | 2026-09-21 09:03 | Salomon XT-6 „Black/Silver" | 1 | 1100285752847382899 |
 | 2026-09-23 09:10 | Air Jordan 1 Low „Dusted Clay" | 1 | 1100285752847536052 |
+| 2026-09-24 09:19 | New Balance 9060 „Deep Purple" | 1 | 1100285752847621033 |
