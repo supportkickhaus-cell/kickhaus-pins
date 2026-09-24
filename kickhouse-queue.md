@@ -45,7 +45,7 @@ Immer den obersten Eintrag mit Status „offen" nehmen. „blockiert" und „bil
 - Modelltext: The 9060 in deep purple suede on a cream midsole. Heavy on comfort, heavier on presence.
 - Modell-Hashtags: #NewBalance9060 #NB9060 #DadShoes #ChunkySneakers
 
-### 4. Suede Platform Clogs „Chocolate" — Status: offen
+### 4. Suede Platform Clogs „Chocolate" — Status: gepostet
 - Bilder: `dcffc954a8b1f6437e3fffd35a70b7fd.jpg`, `c0a11a497e357e21824ba42fbe808860.jpg`
 - Modelltext: Chocolate suede clogs with teddy lining and a chunky platform sole. Cold-weather comfort that still looks the part.
 - Modell-Hashtags: #Clogs #PlatformShoes #WinterShoes #CozyStyle
@@ -67,3 +67,4 @@ Immer den obersten Eintrag mit Status „offen" nehmen. „blockiert" und „bil
 | 2026-09-21 09:03 | Salomon XT-6 „Black/Silver" | 1 | 1100285752847382899 |
 | 2026-09-23 09:10 | Air Jordan 1 Low „Dusted Clay" | 1 | 1100285752847536052 |
 | 2026-09-24 09:19 | New Balance 9060 „Deep Purple" | 1 | 1100285752847621033 |
+| 2026-09-24 20:12 | Suede Platform Clogs „Chocolate" | 2 | 1100285752847649753 |
