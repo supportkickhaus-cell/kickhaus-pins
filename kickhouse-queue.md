@@ -55,7 +55,7 @@ Immer den obersten Eintrag mit Status „offen" nehmen. „blockiert" und „bil
 - Modelltext: All-white ZoomX Invincible 3 with ice-blue foam. Maximum cushioning, minimum noise.
 - Modell-Hashtags: #NikeZoomX #Invincible3 #RunningShoes #WhiteSneakers
 
-### 6. Trail Runner „Rose Pink" — Status: offen
+### 6. Trail Runner „Rose Pink" — Status: gepostet
 - Bilder: `ec01d453e41872364692f8fe360d4444.jpg`
 - Modelltext: Soft pink trail runner with caged overlays and a rugged outsole. The statement pair of the drop.
 - Modell-Hashtags: #PinkSneakers #TrailRunner #Y2KStyle #WomensSneakers
@@ -69,3 +69,4 @@ Immer den obersten Eintrag mit Status „offen" nehmen. „blockiert" und „bil
 | 2026-09-24 09:19 | New Balance 9060 „Deep Purple" | 1 | 1100285752847621033 |
 | 2026-09-24 20:12 | Suede Platform Clogs „Chocolate" | 2 | 1100285752847649753 |
 | 2026-09-25 09:12 | Nike ZoomX Invincible 3 „White" | 1 | 1100285752847696076 |
+| 2026-09-25 20:09 | Trail Runner „Rose Pink" | 1 | 1100285752847725680 |
