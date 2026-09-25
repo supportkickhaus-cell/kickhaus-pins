@@ -50,7 +50,7 @@ Immer den obersten Eintrag mit Status „offen" nehmen. „blockiert" und „bil
 - Modelltext: Chocolate suede clogs with teddy lining and a chunky platform sole. Cold-weather comfort that still looks the part.
 - Modell-Hashtags: #Clogs #PlatformShoes #WinterShoes #CozyStyle
 
-### 5. Nike ZoomX Invincible 3 „White" — Status: offen
+### 5. Nike ZoomX Invincible 3 „White" — Status: gepostet
 - Bilder: `d60ea0590e979dc4ca71689970503051.jpg`
 - Modelltext: All-white ZoomX Invincible 3 with ice-blue foam. Maximum cushioning, minimum noise.
 - Modell-Hashtags: #NikeZoomX #Invincible3 #RunningShoes #WhiteSneakers
@@ -68,3 +68,4 @@ Immer den obersten Eintrag mit Status „offen" nehmen. „blockiert" und „bil
 | 2026-09-23 09:10 | Air Jordan 1 Low „Dusted Clay" | 1 | 1100285752847536052 |
 | 2026-09-24 09:19 | New Balance 9060 „Deep Purple" | 1 | 1100285752847621033 |
 | 2026-09-24 20:12 | Suede Platform Clogs „Chocolate" | 2 | 1100285752847649753 |
+| 2026-09-25 09:12 | Nike ZoomX Invincible 3 „White" | 1 | 1100285752847696076 |
