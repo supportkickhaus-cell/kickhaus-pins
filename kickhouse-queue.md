@@ -285,6 +285,206 @@ Immer den obersten Eintrag mit Status „offen" nehmen. „blockiert" und „bil
 - Modelltext: White and red AJ2 Low with the Off-White script on the panel and an aged sole.
 - Modell-Hashtags: #OffWhite #AirJordan2 #Jordan2Low #RedSneakers
 
+### 52. On Cloudmonster „White/Black" — Status: offen
+- Bilder: `kickhouse_47_on_cloudmonster_white-black.jpg`
+- Modelltext: Maximum CloudTec stack in white with a black heel clip. Built for long easy miles, styled for the street.
+- Modell-Hashtags: #OnRunning #Cloudmonster #RunningShoes #WhiteSneakers
+
+### 53. On Cloud 5 „Sand" — Status: offen
+- Bilder: `kickhouse_48_on_cloud-5_sand.jpg`
+- Modelltext: The Cloud 5 in full sand. Speed-lace fit, light as it looks, the everyday On.
+- Modell-Hashtags: #OnRunning #Cloud5 #SandSneakers #MinimalStyle
+
+### 54. On Cloud 5 „Light Grey" — Status: offen
+- Bilder: `kickhouse_49_on_cloud-5_light-grey.jpg`
+- Modelltext: Light grey mesh on a matching CloudTec sole. Tonal, clean, goes with everything.
+- Modell-Hashtags: #OnRunning #Cloud5 #GreySneakers #CleanKicks
+
+### 55. On Cloudmonster „White/Black" (Seitenansicht) — Status: offen
+- Bilder: `kickhouse_50_on_cloudmonster_white-black-2.jpg`
+- Modelltext: Cloudmonster from the side: the full CloudTec stack in white with black accents.
+- Modell-Hashtags: #OnRunning #Cloudmonster #RunningShoes #ChunkySole
+
+### 56. On Cloudnova „Sand" — Status: offen
+- Bilder: `kickhouse_51_on_cloudnova_sand.jpg`
+- Modelltext: Cloudnova in sand with a grey heel clip. Lifestyle cut on a running sole.
+- Modell-Hashtags: #OnRunning #Cloudnova #SandSneakers #StreetStyle
+
+### 57. On Cloudnova „Grey" — Status: offen
+- Bilder: `kickhouse_52_on_cloudnova_grey.jpg`
+- Modelltext: Grey Cloudnova with a black heel clip. The On that works off the track.
+- Modell-Hashtags: #OnRunning #Cloudnova #GreySneakers #LifestyleSneakers
+
+### 58. On Cloudsurfer „Grey" — Status: offen
+- Bilder: `kickhouse_53_on_cloudsurfer_grey.jpg`
+- Modelltext: CloudTec Phase sole in grey. One smooth roll from heel to toe.
+- Modell-Hashtags: #OnRunning #Cloudsurfer #RunningShoes #GreySneakers
+
+### 59. On Cloudnova Form „Sand" — Status: offen
+- Bilder: `kickhouse_54_on_cloudnova-form_sand.jpg`
+- Modelltext: Cloudnova Form in sand. Sock-fit upper, no loose laces, pure slip-on comfort.
+- Modell-Hashtags: #OnRunning #CloudnovaForm #SandSneakers #SlipOnSneakers
+
+### 60. On Cloudsurfer „Cream" — Status: offen
+- Bilder: `kickhouse_55_on_cloudsurfer_cream.jpg`
+- Modelltext: Cream Cloudsurfer with the wave-cut midsole. Soft landing, clean look.
+- Modell-Hashtags: #OnRunning #Cloudsurfer #CreamSneakers #RunningShoes
+
+### 61. On Cloud X „Sand" — Status: offen
+- Bilder: `kickhouse_56_on_cloud-x_sand.jpg`
+- Modelltext: Cloud X in sand. Built for training, light enough to wear all day.
+- Modell-Hashtags: #OnRunning #CloudX #TrainingShoes #SandSneakers
+
+### 62. On Cloudswift „Sand/Olive" — Status: offen
+- Bilder: `kickhouse_57_on_cloudswift_sand-olive.jpg`
+- Modelltext: Sand upper with olive accents on a Helion midsole. City running, urban palette.
+- Modell-Hashtags: #OnRunning #Cloudswift #OliveSneakers #UrbanRunning
+
+### 63. On Cloud 5 „Sand" (Seitenansicht) — Status: offen
+- Bilder: `kickhouse_58_on_cloud-5_sand-2.jpg`
+- Modelltext: Sand Cloud 5 from the side. Tonal mesh, speed laces, nothing extra.
+- Modell-Hashtags: #OnRunning #Cloud5 #SandSneakers #MinimalStyle
+
+### 64. On Cloud 5 „Light Grey" (Seitenansicht) — Status: offen
+- Bilder: `kickhouse_59_on_cloud-5_light-grey-2.jpg`
+- Modelltext: Light grey Cloud 5 with the classic CloudTec pods. The easiest On to wear.
+- Modell-Hashtags: #OnRunning #Cloud5 #GreySneakers #EverydayShoes
+
+### 65. On Cloudswift „Sand" — Status: offen
+- Bilder: `kickhouse_60_on_cloudswift_sand.jpg`
+- Modelltext: Full sand Cloudswift. Grip for pavement, cushioning for the long way home.
+- Modell-Hashtags: #OnRunning #Cloudswift #SandSneakers #RoadRunning
+
+### 66. On Cloudswift „Light Grey" — Status: offen
+- Bilder: `kickhouse_61_on_cloudswift_light-grey.jpg`
+- Modelltext: Light grey Cloudswift with moulded side bands. Built for city pavement.
+- Modell-Hashtags: #OnRunning #Cloudswift #GreySneakers #CityRunning
+
+### 67. On Cloudrunner „Sand" — Status: offen
+- Bilder: `kickhouse_62_on_cloudrunner_sand.jpg`
+- Modelltext: Cloudrunner in sand, the stability pick in the lineup. Wide base, soft ride.
+- Modell-Hashtags: #OnRunning #Cloudrunner #SandSneakers #RunningShoes
+
+### 68. On Cloudeclipse „Grey" — Status: offen
+- Bilder: `kickhouse_63_on_cloudeclipse_grey.jpg`
+- Modelltext: Double CloudTec layer in grey. The most cushioning On puts under a road shoe.
+- Modell-Hashtags: #OnRunning #Cloudeclipse #GreySneakers #MaxCushion
+
+### 69. On Cloudsurfer „Light Grey" — Status: offen
+- Bilder: `kickhouse_64_on_cloudsurfer_light-grey.jpg`
+- Modelltext: Light grey Cloudsurfer. The wave sole does the work, you just roll forward.
+- Modell-Hashtags: #OnRunning #Cloudsurfer #GreySneakers #RunningShoes
+
+### 70. On Cloudsurfer „Cream/Olive" — Status: offen
+- Bilder: `kickhouse_65_on_cloudsurfer_cream-2.jpg`
+- Modelltext: Cream Cloudsurfer with an olive heel. Warm neutral on a technical sole.
+- Modell-Hashtags: #OnRunning #Cloudsurfer #CreamSneakers #NeutralTones
+
+### 71. On Cloudboom „White" — Status: offen
+- Bilder: `kickhouse_66_on_cloudboom_white.jpg`
+- Modelltext: Race-day build in white. Stripped-down upper, plated sole, nothing you do not need.
+- Modell-Hashtags: #OnRunning #Cloudboom #RacingShoes #WhiteSneakers
+
+### 72. On Cloudvista „Sand" — Status: offen
+- Bilder: `kickhouse_67_on_cloudvista_sand-trail.jpg`
+- Modelltext: Trail-ready Cloudvista in sand. Grippy outsole, protective toe, built for the path.
+- Modell-Hashtags: #OnRunning #Cloudvista #TrailShoes #SandSneakers
+
+### 73. On Cloudventure „White/Olive" — Status: offen
+- Bilder: `kickhouse_68_on_cloudventure_white-olive.jpg`
+- Modelltext: White and olive trail build with deep lugs. Made for loose ground.
+- Modell-Hashtags: #OnRunning #Cloudventure #TrailRunning #OliveSneakers
+
+### 74. On Cloudvista „Sand/Olive" — Status: offen
+- Bilder: `kickhouse_69_on_cloudvista_sand-olive.jpg`
+- Modelltext: Sand upper, olive trim, full trail outsole. Off-road shoe that still looks clean.
+- Modell-Hashtags: #OnRunning #Cloudvista #TrailShoes #OutdoorStyle
+
+### 75. On Cloudvista „Grey/Olive" — Status: offen
+- Bilder: `kickhouse_70_on_cloudvista_grey-olive.jpg`
+- Modelltext: Grey and olive Cloudvista. Trail grip with a city-friendly palette.
+- Modell-Hashtags: #OnRunning #Cloudvista #TrailRunning #GreySneakers
+
+### 76. On Cloudrunner „Cream" — Status: offen
+- Bilder: `kickhouse_71_on_cloudrunner_cream.jpg`
+- Modelltext: Cream Cloudrunner with a grey heel. Stable, soft, built for daily mileage.
+- Modell-Hashtags: #OnRunning #Cloudrunner #CreamSneakers #DailyTrainer
+
+### 77. On Cloud 5 „White" — Status: offen
+- Bilder: `kickhouse_72_on_cloud-5_white.jpg`
+- Modelltext: All-white Cloud 5. The cleanest On in the range, and the hardest to keep that way.
+- Modell-Hashtags: #OnRunning #Cloud5 #WhiteSneakers #CleanKicks
+
+### 78. On Cloudrunner „Light Grey" — Status: offen
+- Bilder: `kickhouse_73_on_cloudrunner_light-grey.jpg`
+- Modelltext: Light grey Cloudrunner. Wide CloudTec base, the comfortable end of the lineup.
+- Modell-Hashtags: #OnRunning #Cloudrunner #GreySneakers #ComfortShoes
+
+### 79. On Cloudmonster „White/Lime" — Status: offen
+- Bilder: `kickhouse_74_on_cloudmonster_white-lime.jpg`
+- Modelltext: Cloudmonster in white with lime flashes in the sole. Maximum stack, minimum weight.
+- Modell-Hashtags: #OnRunning #Cloudmonster #LimeAccents #RunningShoes
+
+### 80. On Track Spike „White" — Status: offen
+- Bilder: `kickhouse_75_on_track-spike_white.jpg`
+- Modelltext: Spiked plate, featherweight upper, built for one thing only. Track day.
+- Modell-Hashtags: #OnRunning #TrackSpikes #Athletics #WhiteSneakers
+
+### 81. On Cloudrunner „Grey" — Status: offen
+- Bilder: `kickhouse_76_on_cloudrunner_grey.jpg`
+- Modelltext: Grey Cloudrunner with a dark heel. Steady, cushioned, no fuss.
+- Modell-Hashtags: #OnRunning #Cloudrunner #GreySneakers #RunningShoes
+
+### 82. On Cloudsurfer „White" — Status: offen
+- Bilder: `kickhouse_77_on_cloudsurfer_white.jpg`
+- Modelltext: White Cloudsurfer with the sculpted wave midsole. Pure rolling motion.
+- Modell-Hashtags: #OnRunning #Cloudsurfer #WhiteSneakers #RunningShoes
+
+### 83. On Cloudsurfer „Cream/Grey" — Status: offen
+- Bilder: `kickhouse_78_on_cloudsurfer_cream-3.jpg`
+- Modelltext: Cream Cloudsurfer with a grey heel clip. Warm tone, technical build.
+- Modell-Hashtags: #OnRunning #Cloudsurfer #CreamSneakers #NeutralTones
+
+### 84. On Cloudrunner „White" — Status: offen
+- Bilder: `kickhouse_79_on_cloudrunner_white.jpg`
+- Modelltext: White Cloudrunner, name printed right on the midsole. Stability done quietly.
+- Modell-Hashtags: #OnRunning #Cloudrunner #WhiteSneakers #StabilityShoes
+
+### 85. On Cloudswift „Grey" — Status: offen
+- Bilder: `kickhouse_80_on_cloudswift_grey.jpg`
+- Modelltext: Grey Cloudswift with moulded overlays. City shoe that handles concrete all week.
+- Modell-Hashtags: #OnRunning #Cloudswift #GreySneakers #CityRunning
+
+### 86. On Cloudboom Strike „White/Orange" — Status: offen
+- Bilder: `kickhouse_81_on_cloudboom-strike_white-orange.jpg`
+- Modelltext: Race shoe in white with an orange fade. Plated sole, built for the clock.
+- Modell-Hashtags: #OnRunning #CloudboomStrike #RacingShoes #OrangeAccents
+
+### 87. On Cloudboom Strike „White/Orange" (Seitenansicht) — Status: offen
+- Bilder: `kickhouse_82_on_cloudboom-strike_white-orange-2.jpg`
+- Modelltext: Cloudboom Strike from the side. Orange gradient, speed plate, race-day only.
+- Modell-Hashtags: #OnRunning #CloudboomStrike #Marathon #RacingShoes
+
+### 88. On Cloudsurfer Trail „Sand/Olive" — Status: offen
+- Bilder: `kickhouse_83_on_cloudsurfer-trail_sand-olive.jpg`
+- Modelltext: Trail version of the Cloudsurfer in sand and olive. CloudTec Phase, off-road grip.
+- Modell-Hashtags: #OnRunning #CloudsurferTrail #TrailShoes #OliveSneakers
+
+### 89. On Cloudvista „Sand/Olive" (Seitenansicht) — Status: offen
+- Bilder: `kickhouse_84_on_cloudvista_sand-olive-2.jpg`
+- Modelltext: Sand and olive Cloudvista, built for mixed ground. Light trail shoe, heavy grip.
+- Modell-Hashtags: #OnRunning #Cloudvista #TrailRunning #SandSneakers
+
+### 90. On Cloudvista „Sand/Black" — Status: offen
+- Bilder: `kickhouse_85_on_cloudvista_sand-black.jpg`
+- Modelltext: Sand upper with a black cage and olive sole. The toughest look in the trail range.
+- Modell-Hashtags: #OnRunning #Cloudvista #TrailShoes #OutdoorStyle
+
+### 91. On Cloud X „Light Grey" — Status: offen
+- Bilder: `kickhouse_86_on_cloud-x_light-grey.jpg`
+- Modelltext: Light grey Cloud X. Training shoe with enough style to leave the gym in.
+- Modell-Hashtags: #OnRunning #CloudX #GreySneakers #TrainingShoes
+
 ## Gepostet
 
 | Datum (UTC+8) | Modell | Bilder | Pin-ID |
