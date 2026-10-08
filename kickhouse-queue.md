@@ -62,7 +62,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Soft pink trail runner with caged overlays and a rugged outsole. The statement pair of the drop.
 - Modell-Hashtags: #PinkSneakers #TrailRunner #Y2KStyle #WomensSneakers
 
-### 7. On Cloudmonster „White/Black" — Status: offen
+### 7. On Cloudmonster „White/Black" — Status: gepostet
 - Bilder: `kickhouse_47_on_cloudmonster_white-black.jpg`
 - Modelltext: Maximum CloudTec stack in white with a black heel clip. Built for long easy miles, styled for the street.
 - Modell-Hashtags: #OnRunning #Cloudmonster #RunningShoes #WhiteSneakers
@@ -552,3 +552,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-09-24 20:12 | Suede Platform Clogs „Chocolate" | 2 | 1100285752847649753 |
 | 2026-09-25 09:12 | Nike ZoomX Invincible 3 „White" | 1 | 1100285752847696076 |
 | 2026-09-25 20:09 | Trail Runner „Rose Pink" | 1 | 1100285752847725680 |
+| 2026-10-08 18:14 | On Cloudmonster „White/Black" | 1 | 1100285752848821512 |
