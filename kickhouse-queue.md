@@ -67,7 +67,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Maximum CloudTec stack in white with a black heel clip. Built for long easy miles, styled for the street.
 - Modell-Hashtags: #OnRunning #Cloudmonster #RunningShoes #WhiteSneakers
 
-### 8. On Cloud 5 „Sand" — Status: offen
+### 8. On Cloud 5 „Sand" — Status: gepostet
 - Bilder: `kickhouse_48_on_cloud-5_sand.jpg`
 - Modelltext: The Cloud 5 in full sand. Speed-lace fit, light as it looks, the everyday On.
 - Modell-Hashtags: #OnRunning #Cloud5 #SandSneakers #MinimalStyle
@@ -553,3 +553,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-09-25 09:12 | Nike ZoomX Invincible 3 „White" | 1 | 1100285752847696076 |
 | 2026-09-25 20:09 | Trail Runner „Rose Pink" | 1 | 1100285752847725680 |
 | 2026-10-08 18:14 | On Cloudmonster „White/Black" | 1 | 1100285752848821512 |
+| 2026-10-08 20:10 | On Cloud 5 „Sand" | 1 | 1100285752848827060 |
