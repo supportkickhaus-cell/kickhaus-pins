@@ -60,6 +60,61 @@ Immer den obersten Eintrag mit Status „offen" nehmen. „blockiert" und „bil
 - Modelltext: Soft pink trail runner with caged overlays and a rugged outsole. The statement pair of the drop.
 - Modell-Hashtags: #PinkSneakers #TrailRunner #Y2KStyle #WomensSneakers
 
+### 7. Travis Scott Jordan 1 Low „Canary" — Status: offen
+- Bilder: `kickhouse_01_travis-scott_jordan-1-low_canary.jpg`
+- Modelltext: Canary yellow and royal blue on a reverse-swoosh AJ1 Low. The loudest pair Cactus Jack ever put out.
+- Modell-Hashtags: #TravisScott #Jordan1Low #CactusJack #CanaryYellow
+
+### 8. Travis Scott Jordan 1 Low „Mocha" — Status: offen
+- Bilder: `kickhouse_02_travis-scott_jordan-1-low_mocha.jpg`
+- Modelltext: The pair that started it all. Brown suede, backwards swoosh, sail midsole aged exactly right.
+- Modell-Hashtags: #TravisScott #Jordan1Low #Mocha #CactusJack
+
+### 9. Travis Scott Jordan 1 Low „Olive" — Status: offen
+- Bilder: `kickhouse_03_travis-scott_jordan-1-low_olive.jpg`
+- Modelltext: Olive suede swoosh over black and sail. Muted where Mocha runs warm, and it works with everything.
+- Modell-Hashtags: #TravisScott #Jordan1Low #OliveSneakers #CactusJack
+
+### 10. Travis Scott Jordan 1 Low „Velvet Brown" — Status: offen
+- Bilder: `kickhouse_04_travis-scott_jordan-1-low_velvet-brown.jpg`
+- Modelltext: Velvet brown suede on a soft sail base. The grown-up version of the Cactus Jack low.
+- Modell-Hashtags: #TravisScott #Jordan1Low #VelvetBrown #CactusJack
+
+### 11. Travis Scott Jordan 1 Low „Black Phantom" — Status: offen
+- Bilder: `kickhouse_05_travis-scott_jordan-1-low_black-phantom.jpg`
+- Modelltext: Blacked-out panels, phantom swoosh, no colour anywhere. All presence, zero noise.
+- Modell-Hashtags: #TravisScott #Jordan1Low #BlackPhantom #CactusJack
+
+### 12. Travis Scott Jordan 1 Low „Reverse Mocha" — Status: offen
+- Bilder: `kickhouse_06_travis-scott_jordan-1-low_reverse-mocha.jpg`, `kickhouse_07_travis-scott_jordan-1-low_reverse-mocha_paar.jpg`
+- Modelltext: Reverse Mocha flips the original: sail takes the lead, brown suede handles the trim. Two angles, one grail.
+- Modell-Hashtags: #TravisScott #Jordan1Low #ReverseMocha #CactusJack
+
+### 13. Travis Scott Jordan 1 High „Mocha" — Status: offen
+- Bilder: `kickhouse_08_travis-scott_jordan-1-high_mocha.jpg`
+- Modelltext: The high-top Mocha with the upside-down swoosh and the stash-pocket collar. The blueprint.
+- Modell-Hashtags: #TravisScott #Jordan1High #Mocha #CactusJack
+
+### 14. Travis Scott Jordan 4 „Cactus Jack" — Status: offen
+- Bilder: `kickhouse_09_travis-scott_jordan-4_cactus-jack.jpg`
+- Modelltext: Jordan 4 in Cactus Jack trim. Nubuck upper, Nike Air heel, cement detailing done the TS way.
+- Modell-Hashtags: #TravisScott #Jordan4 #CactusJack #AirJordan
+
+### 15. Travis Scott Air Max 1 „Cactus Jack" — Status: offen
+- Bilder: `kickhouse_10_travis-scott_air-max-1_cactus-jack.jpg`
+- Modelltext: Air Max 1 with the reversed swoosh and exposed suede edges. Travis took a classic apart on purpose.
+- Modell-Hashtags: #TravisScott #AirMax1 #CactusJack #NikeAirMax
+
+### 16. Travis Scott Jumpman Jack TR „Sail" — Status: offen
+- Bilder: `kickhouse_11_travis-scott_jumpman-jack-tr_sail.jpg`
+- Modelltext: Jumpman Jack TR in sail and brown. Strap across the forefoot, split tooling, built to be beaten up.
+- Modell-Hashtags: #TravisScott #JumpmanJack #CactusJack #TrainerSneakers
+
+### 17. Louis Vuitton Trainer „Monogram Black/Green" — Status: offen
+- Bilder: `kickhouse_12_louis-vuitton_trainer_monogram-schwarz-gruen.jpg`
+- Modelltext: LV Trainer in black monogram with a glow-green sole. Luxury house silhouette, streetwear volume.
+- Modell-Hashtags: #LouisVuitton #LVTrainer #LuxurySneakers #DesignerShoes
+
 ## Gepostet
 
 | Datum (UTC+8) | Modell | Bilder | Pin-ID |
