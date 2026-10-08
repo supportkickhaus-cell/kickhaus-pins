@@ -485,6 +485,61 @@ Immer den obersten Eintrag mit Status „offen" nehmen. „blockiert" und „bil
 - Modelltext: Light grey Cloud X. Training shoe with enough style to leave the gym in.
 - Modell-Hashtags: #OnRunning #CloudX #GreySneakers #TrainingShoes
 
+### 92. UGG Tazz Platform „Chestnut" — Status: offen
+- Bilder: `kickhouse_87_ugg_tazz-platform_chestnut.jpg`
+- Modelltext: Chestnut suede slipper on a thick platform sole with braided trim and full sheepskin lining. The pair everyone wanted.
+- Modell-Hashtags: #UGG #UGGTazz #PlatformShoes #ChestnutSuede
+
+### 93. UGG Tasman „Chestnut" — Status: offen
+- Bilder: `kickhouse_88_ugg_tasman_chestnut.jpg`
+- Modelltext: The original Tasman slipper with the braided collar. Flat sole, suede upper, indoor-outdoor all winter.
+- Modell-Hashtags: #UGG #UGGTasman #SlipperShoes #CozyStyle
+
+### 94. UGG Lowmel „Chestnut" — Status: offen
+- Bilder: `kickhouse_89_ugg_lowmel_chestnut.jpg`
+- Modelltext: Suede skate silhouette with chunky laces and a shearling collar. UGG goes streetwear.
+- Modell-Hashtags: #UGG #UGGLowmel #SuedeSneakers #StreetStyle
+
+### 95. UGG Lowmel „Sand" — Status: offen
+- Bilder: `kickhouse_90_ugg_lowmel_sand.jpg`
+- Modelltext: The Lowmel in sand suede. Same chunky laces, lighter tone, easier to style.
+- Modell-Hashtags: #UGG #UGGLowmel #SandSneakers #WinterSneakers
+
+### 96. UGG Classic Ultra Mini „Chestnut" — Status: offen
+- Bilder: `kickhouse_91_ugg_classic-ultra-mini_chestnut.jpg`
+- Modelltext: The Ultra Mini in chestnut. Ankle height, no lacing, sheepskin all the way through.
+- Modell-Hashtags: #UGG #UltraMini #WinterBoots #ChestnutSuede
+
+### 97. UGG Mary Jane Platform „Sand" — Status: offen
+- Bilder: `kickhouse_92_ugg_mary-jane-platform_sand.jpg`
+- Modelltext: Mary Jane strap on a lug platform sole, sand suede throughout. Soft shape, heavy base.
+- Modell-Hashtags: #UGG #MaryJane #PlatformShoes #SandSuede
+
+### 98. UGG Ballet Flat „Sand" — Status: offen
+- Bilder: `kickhouse_93_ugg_ballet-flat_sand.jpg`
+- Modelltext: Suede ballet flat with a bow and a thin sole. The quiet piece in the UGG range.
+- Modell-Hashtags: #UGG #BalletFlats #SandSuede #MinimalStyle
+
+### 99. UGG Lace Low Moc „Chestnut" — Status: offen
+- Bilder: `kickhouse_94_ugg_lace-low-moc_chestnut.jpg`
+- Modelltext: Moc-toe low with a shearling collar on a rugged trail outsole. Built for cold pavement.
+- Modell-Hashtags: #UGG #UGGMoc #WinterShoes #ChestnutSuede
+
+### 100. UGG Goldenstar Clog „Chestnut" — Status: offen
+- Bilder: `kickhouse_95_ugg_goldenstar-clog_chestnut.jpg`
+- Modelltext: Clog with a heel strap on a platform sole. Slip in, strap down, done.
+- Modell-Hashtags: #UGG #GoldenstarClog #PlatformClogs #ChestnutSuede
+
+### 101. UGG Classic Ultra Mini Platform „Chestnut" — Status: offen
+- Bilder: `kickhouse_96_ugg_classic-ultra-mini-platform_chestnut.jpg`
+- Modelltext: The Ultra Mini lifted onto a tall lug platform. Same boot, more presence.
+- Modell-Hashtags: #UGG #UltraMiniPlatform #WinterBoots #PlatformShoes
+
+### 102. UGG Tazz Platform „Chestnut" (Seitenansicht) — Status: offen
+- Bilder: `kickhouse_97_ugg_tazz-platform_chestnut-2.jpg`
+- Modelltext: Tazz from the side: braided collar, sheepskin lining, platform sole in full view.
+- Modell-Hashtags: #UGG #UGGTazz #PlatformShoes #CozyStyle
+
 ## Gepostet
 
 | Datum (UTC+8) | Modell | Bilder | Pin-ID |
