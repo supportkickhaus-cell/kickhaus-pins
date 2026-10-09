@@ -72,7 +72,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: The Cloud 5 in full sand. Speed-lace fit, light as it looks, the everyday On.
 - Modell-Hashtags: #OnRunning #Cloud5 #SandSneakers #MinimalStyle
 
-### 9. On Cloud 5 „Light Grey" — Status: offen
+### 9. On Cloud 5 „Light Grey" — Status: gepostet
 - Bilder: `kickhouse_49_on_cloud-5_light-grey.jpg`
 - Modelltext: Light grey mesh on a matching CloudTec sole. Tonal, clean, goes with everything.
 - Modell-Hashtags: #OnRunning #Cloud5 #GreySneakers #CleanKicks
@@ -554,3 +554,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-09-25 20:09 | Trail Runner „Rose Pink" | 1 | 1100285752847725680 |
 | 2026-10-08 18:14 | On Cloudmonster „White/Black" | 1 | 1100285752848821512 |
 | 2026-10-08 20:10 | On Cloud 5 „Sand" | 1 | 1100285752848827060 |
+| 2026-10-09 11:03 | On Cloud 5 „Light Grey" | 1 | 1100285752848885661 |
