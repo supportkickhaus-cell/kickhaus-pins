@@ -47,3 +47,4 @@ alt_text = Modelltitel. Niemals THE-CLOC-Texte oder die CLOC-WhatsApp-Nummer ver
 |---|---|---|---|
 | 2026-10-08 18:20 | kickhouse_97_ugg_tazz-platform_chestnut-2.jpg | UGG Tazz Platform „Chestnut" | https://www.instagram.com/p/DeOtKlQFYgw/ |
 | 2026-10-08 20:11 | kickhouse_96_ugg_classic-ultra-mini-platform_chestnut.jpg | UGG Classic Ultra Mini Platform „Chestnut" | https://www.instagram.com/p/DeO535zoP0q/ |
+| 2026-10-09 10:10 | kickhouse_95_ugg_goldenstar-clog_chestnut.jpg | UGG Goldenstar Clog „Chestnut" | https://www.instagram.com/p/DeQZ5kekYXn/ |
