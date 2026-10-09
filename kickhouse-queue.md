@@ -77,7 +77,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Light grey mesh on a matching CloudTec sole. Tonal, clean, goes with everything.
 - Modell-Hashtags: #OnRunning #Cloud5 #GreySneakers #CleanKicks
 
-### 10. On Cloudmonster „White/Black" (Seitenansicht) — Status: offen
+### 10. On Cloudmonster „White/Black" (Seitenansicht) — Status: gepostet
 - Bilder: `kickhouse_50_on_cloudmonster_white-black-2.jpg`
 - Modelltext: Cloudmonster from the side: the full CloudTec stack in white with black accents.
 - Modell-Hashtags: #OnRunning #Cloudmonster #RunningShoes #ChunkySole
@@ -555,3 +555,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-08 18:14 | On Cloudmonster „White/Black" | 1 | 1100285752848821512 |
 | 2026-10-08 20:10 | On Cloud 5 „Sand" | 1 | 1100285752848827060 |
 | 2026-10-09 11:03 | On Cloud 5 „Light Grey" | 1 | 1100285752848885661 |
+| 2026-10-09 20:10 | On Cloudmonster „White/Black" (Seitenansicht) | 1 | 1100285752848913139 |
