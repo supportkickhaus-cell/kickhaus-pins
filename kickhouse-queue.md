@@ -82,7 +82,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Cloudmonster from the side: the full CloudTec stack in white with black accents.
 - Modell-Hashtags: #OnRunning #Cloudmonster #RunningShoes #ChunkySole
 
-### 11. On Cloudnova „Sand" — Status: offen
+### 11. On Cloudnova „Sand" — Status: gepostet
 - Bilder: `kickhouse_51_on_cloudnova_sand.jpg`
 - Modelltext: Cloudnova in sand with a grey heel clip. Lifestyle cut on a running sole.
 - Modell-Hashtags: #OnRunning #Cloudnova #SandSneakers #StreetStyle
@@ -556,3 +556,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-08 20:10 | On Cloud 5 „Sand" | 1 | 1100285752848827060 |
 | 2026-10-09 11:03 | On Cloud 5 „Light Grey" | 1 | 1100285752848885661 |
 | 2026-10-09 20:10 | On Cloudmonster „White/Black" (Seitenansicht) | 1 | 1100285752848913139 |
+| 2026-10-10 09:10 | On Cloudnova „Sand" | 1 | 1100285752848968174 |
