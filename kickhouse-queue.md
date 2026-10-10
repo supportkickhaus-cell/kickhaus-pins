@@ -87,7 +87,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Cloudnova in sand with a grey heel clip. Lifestyle cut on a running sole.
 - Modell-Hashtags: #OnRunning #Cloudnova #SandSneakers #StreetStyle
 
-### 12. On Cloudnova „Grey" — Status: offen
+### 12. On Cloudnova „Grey" — Status: gepostet
 - Bilder: `kickhouse_52_on_cloudnova_grey.jpg`
 - Modelltext: Grey Cloudnova with a black heel clip. The On that works off the track.
 - Modell-Hashtags: #OnRunning #Cloudnova #GreySneakers #LifestyleSneakers
@@ -557,3 +557,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-09 11:03 | On Cloud 5 „Light Grey" | 1 | 1100285752848885661 |
 | 2026-10-09 20:10 | On Cloudmonster „White/Black" (Seitenansicht) | 1 | 1100285752848913139 |
 | 2026-10-10 09:10 | On Cloudnova „Sand" | 1 | 1100285752848968174 |
+| 2026-10-10 20:10 | On Cloudnova „Grey" | 1 | 1100285752849004794 |
