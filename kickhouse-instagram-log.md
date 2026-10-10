@@ -50,3 +50,4 @@ alt_text = Modelltitel. Niemals THE-CLOC-Texte oder die CLOC-WhatsApp-Nummer ver
 | 2026-10-09 10:10 | kickhouse_95_ugg_goldenstar-clog_chestnut.jpg | UGG Goldenstar Clog „Chestnut" | https://www.instagram.com/p/DeQZ5kekYXn/ |
 | 2026-10-09 14:10 | kickhouse_94_ugg_lace-low-moc_chestnut.jpg | UGG Lace Low Moc „Chestnut" | https://www.instagram.com/p/DeQ1YQFlRTh/ |
 | 2026-10-09 20:18 | kickhouse_93_ugg_ballet-flat_sand.jpg | UGG Ballet Flat „Sand" | https://www.instagram.com/p/DeRfdwQIHR7/ |
+| 2026-10-10 10:10 | kickhouse_92_ugg_mary-jane-platform_sand.jpg | UGG Mary Jane Platform „Sand" | https://www.instagram.com/p/DeS-sdAAOFF/ |
