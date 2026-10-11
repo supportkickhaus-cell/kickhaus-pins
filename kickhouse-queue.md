@@ -97,7 +97,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: CloudTec Phase sole in grey. One smooth roll from heel to toe.
 - Modell-Hashtags: #OnRunning #Cloudsurfer #RunningShoes #GreySneakers
 
-### 14. On Cloudnova Form „Sand" — Status: offen
+### 14. On Cloudnova Form „Sand" — Status: gepostet
 - Bilder: `kickhouse_54_on_cloudnova-form_sand.jpg`
 - Modelltext: Cloudnova Form in sand. Sock-fit upper, no loose laces, pure slip-on comfort.
 - Modell-Hashtags: #OnRunning #CloudnovaForm #SandSneakers #SlipOnSneakers
@@ -559,3 +559,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-10 09:10 | On Cloudnova „Sand" | 1 | 1100285752848968174 |
 | 2026-10-10 20:10 | On Cloudnova „Grey" | 1 | 1100285752849004794 |
 | 2026-10-11 09:09 | On Cloudsurfer „Grey" | 1 | 1100285752849062794 |
+| 2026-10-11 20:10 | On Cloudnova Form „Sand" | 1 | 1100285752849100675 |
