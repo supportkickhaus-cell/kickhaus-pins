@@ -53,3 +53,4 @@ alt_text = Modelltitel. Niemals THE-CLOC-Texte oder die CLOC-WhatsApp-Nummer ver
 | 2026-10-10 10:10 | kickhouse_92_ugg_mary-jane-platform_sand.jpg | UGG Mary Jane Platform „Sand" | https://www.instagram.com/p/DeS-sdAAOFF/ |
 | 2026-10-10 14:10 | kickhouse_91_ugg_classic-ultra-mini_chestnut.jpg | UGG Classic Ultra Mini „Chestnut" | https://www.instagram.com/p/DeTaJvgFbrE/ |
 | 2026-10-10 20:10 | kickhouse_90_ugg_lowmel_sand.jpg | UGG Lowmel „Sand" | https://www.instagram.com/p/DeUDUraoG0W/ |
+| 2026-10-11 10:10 | kickhouse_89_ugg_lowmel_chestnut.jpg | UGG Lowmel „Chestnut" | https://www.instagram.com/p/DeVjgAsAN_u/ |
