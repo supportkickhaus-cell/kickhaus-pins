@@ -92,7 +92,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Grey Cloudnova with a black heel clip. The On that works off the track.
 - Modell-Hashtags: #OnRunning #Cloudnova #GreySneakers #LifestyleSneakers
 
-### 13. On Cloudsurfer „Grey" — Status: offen
+### 13. On Cloudsurfer „Grey" — Status: gepostet
 - Bilder: `kickhouse_53_on_cloudsurfer_grey.jpg`
 - Modelltext: CloudTec Phase sole in grey. One smooth roll from heel to toe.
 - Modell-Hashtags: #OnRunning #Cloudsurfer #RunningShoes #GreySneakers
@@ -558,3 +558,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-09 20:10 | On Cloudmonster „White/Black" (Seitenansicht) | 1 | 1100285752848913139 |
 | 2026-10-10 09:10 | On Cloudnova „Sand" | 1 | 1100285752848968174 |
 | 2026-10-10 20:10 | On Cloudnova „Grey" | 1 | 1100285752849004794 |
+| 2026-10-11 09:09 | On Cloudsurfer „Grey" | 1 | 1100285752849062794 |
