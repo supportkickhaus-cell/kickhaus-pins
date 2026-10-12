@@ -58,3 +58,4 @@ alt_text = Modelltitel. Niemals THE-CLOC-Texte oder die CLOC-WhatsApp-Nummer ver
 | 2026-10-11 20:10 | kickhouse_87_ugg_tazz-platform_chestnut.jpg | UGG Tazz Platform „Chestnut" | https://www.instagram.com/p/DeWoI9Bm-N3/ |
 | 2026-10-12 10:11 | kickhouse_86_on_cloud-x_light-grey.jpg | On Cloud X „Light Grey" | https://www.instagram.com/p/DeYIUENAEX9/ |
 | 2026-10-12 14:17 | kickhouse_85_on_cloudvista_sand-black.jpg | On Cloudvista „Sand/Black" | https://www.instagram.com/p/DeYkhw_Ff50/ |
+| 2026-10-12 20:19 | kickhouse_84_on_cloudvista_sand-olive-2.jpg | On Cloudvista „Sand/Olive" | https://www.instagram.com/p/DeZN9H3mzle/ |
