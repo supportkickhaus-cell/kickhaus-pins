@@ -102,7 +102,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Cloudnova Form in sand. Sock-fit upper, no loose laces, pure slip-on comfort.
 - Modell-Hashtags: #OnRunning #CloudnovaForm #SandSneakers #SlipOnSneakers
 
-### 15. On Cloudsurfer „Cream" — Status: offen
+### 15. On Cloudsurfer „Cream" — Status: gepostet
 - Bilder: `kickhouse_55_on_cloudsurfer_cream.jpg`
 - Modelltext: Cream Cloudsurfer with the wave-cut midsole. Soft landing, clean look.
 - Modell-Hashtags: #OnRunning #Cloudsurfer #CreamSneakers #RunningShoes
@@ -560,3 +560,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-10 20:10 | On Cloudnova „Grey" | 1 | 1100285752849004794 |
 | 2026-10-11 09:09 | On Cloudsurfer „Grey" | 1 | 1100285752849062794 |
 | 2026-10-11 20:10 | On Cloudnova Form „Sand" | 1 | 1100285752849100675 |
+| 2026-10-12 09:10 | On Cloudsurfer „Cream" | 1 | 1100285752849156323 |
