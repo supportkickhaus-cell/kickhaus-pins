@@ -107,7 +107,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Cream Cloudsurfer with the wave-cut midsole. Soft landing, clean look.
 - Modell-Hashtags: #OnRunning #Cloudsurfer #CreamSneakers #RunningShoes
 
-### 16. On Cloud X „Sand" — Status: offen
+### 16. On Cloud X „Sand" — Status: gepostet
 - Bilder: `kickhouse_56_on_cloud-x_sand.jpg`
 - Modelltext: Cloud X in sand. Built for training, light enough to wear all day.
 - Modell-Hashtags: #OnRunning #CloudX #TrainingShoes #SandSneakers
@@ -561,3 +561,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-11 09:09 | On Cloudsurfer „Grey" | 1 | 1100285752849062794 |
 | 2026-10-11 20:10 | On Cloudnova Form „Sand" | 1 | 1100285752849100675 |
 | 2026-10-12 09:10 | On Cloudsurfer „Cream" | 1 | 1100285752849156323 |
+| 2026-10-13 08:53 | On Cloud X „Sand" | 1 | 1100285752849241350 |
