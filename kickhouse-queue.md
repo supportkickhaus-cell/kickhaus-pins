@@ -112,7 +112,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Cloud X in sand. Built for training, light enough to wear all day.
 - Modell-Hashtags: #OnRunning #CloudX #TrainingShoes #SandSneakers
 
-### 17. On Cloudswift „Sand/Olive" — Status: offen
+### 17. On Cloudswift „Sand/Olive" — Status: gepostet
 - Bilder: `kickhouse_57_on_cloudswift_sand-olive.jpg`
 - Modelltext: Sand upper with olive accents on a Helion midsole. City running, urban palette.
 - Modell-Hashtags: #OnRunning #Cloudswift #OliveSneakers #UrbanRunning
@@ -562,3 +562,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-11 20:10 | On Cloudnova Form „Sand" | 1 | 1100285752849100675 |
 | 2026-10-12 09:10 | On Cloudsurfer „Cream" | 1 | 1100285752849156323 |
 | 2026-10-13 08:53 | On Cloud X „Sand" | 1 | 1100285752849241350 |
+| 2026-10-13 09:10 | On Cloudswift „Sand/Olive" | 1 | 1100285752849242360 |
