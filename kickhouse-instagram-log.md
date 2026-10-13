@@ -60,3 +60,4 @@ alt_text = Modelltitel. Niemals THE-CLOC-Texte oder die CLOC-WhatsApp-Nummer ver
 | 2026-10-12 14:17 | kickhouse_85_on_cloudvista_sand-black.jpg | On Cloudvista „Sand/Black" | https://www.instagram.com/p/DeYkhw_Ff50/ |
 | 2026-10-12 20:19 | kickhouse_84_on_cloudvista_sand-olive-2.jpg | On Cloudvista „Sand/Olive" | https://www.instagram.com/p/DeZN9H3mzle/ |
 | 2026-10-13 10:10 | kickhouse_83_on_cloudsurfer-trail_sand-olive.jpg | On Cloudsurfer Trail „Sand/Olive" | https://www.instagram.com/p/DeatByRjQ-7/ |
+| 2026-10-13 14:11 | kickhouse_82_on_cloudboom-strike_white-orange-2.jpg | On Cloudboom Strike „White/Orange" | https://www.instagram.com/p/DebInP5lfYT/ |
