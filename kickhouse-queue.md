@@ -122,7 +122,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Sand Cloud 5 from the side. Tonal mesh, speed laces, nothing extra.
 - Modell-Hashtags: #OnRunning #Cloud5 #SandSneakers #MinimalStyle
 
-### 19. On Cloud 5 „Light Grey" (Seitenansicht) — Status: offen
+### 19. On Cloud 5 „Light Grey" (Seitenansicht) — Status: gepostet
 - Bilder: `kickhouse_59_on_cloud-5_light-grey-2.jpg`
 - Modelltext: Light grey Cloud 5 with the classic CloudTec pods. The easiest On to wear.
 - Modell-Hashtags: #OnRunning #Cloud5 #GreySneakers #EverydayShoes
@@ -564,3 +564,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-13 08:53 | On Cloud X „Sand" | 1 | 1100285752849241350 |
 | 2026-10-13 09:10 | On Cloudswift „Sand/Olive" | 1 | 1100285752849242360 |
 | 2026-10-15 09:10 | On Cloud 5 „Sand" (Seitenansicht) | 1 | 1100285752849407189 |
+| 2026-10-15 20:10 | On Cloud 5 „Light Grey" (Seitenansicht) | 1 | 1100285752849437086 |
