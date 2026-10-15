@@ -117,7 +117,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Sand upper with olive accents on a Helion midsole. City running, urban palette.
 - Modell-Hashtags: #OnRunning #Cloudswift #OliveSneakers #UrbanRunning
 
-### 18. On Cloud 5 „Sand" (Seitenansicht) — Status: offen
+### 18. On Cloud 5 „Sand" (Seitenansicht) — Status: gepostet
 - Bilder: `kickhouse_58_on_cloud-5_sand-2.jpg`
 - Modelltext: Sand Cloud 5 from the side. Tonal mesh, speed laces, nothing extra.
 - Modell-Hashtags: #OnRunning #Cloud5 #SandSneakers #MinimalStyle
@@ -563,3 +563,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-12 09:10 | On Cloudsurfer „Cream" | 1 | 1100285752849156323 |
 | 2026-10-13 08:53 | On Cloud X „Sand" | 1 | 1100285752849241350 |
 | 2026-10-13 09:10 | On Cloudswift „Sand/Olive" | 1 | 1100285752849242360 |
+| 2026-10-15 09:10 | On Cloud 5 „Sand" (Seitenansicht) | 1 | 1100285752849407189 |
