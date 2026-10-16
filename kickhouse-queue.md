@@ -132,7 +132,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Full sand Cloudswift. Grip for pavement, cushioning for the long way home.
 - Modell-Hashtags: #OnRunning #Cloudswift #SandSneakers #RoadRunning
 
-### 21. On Cloudswift „Light Grey" — Status: offen
+### 21. On Cloudswift „Light Grey" — Status: gepostet
 - Bilder: `kickhouse_61_on_cloudswift_light-grey.jpg`
 - Modelltext: Light grey Cloudswift with moulded side bands. Built for city pavement.
 - Modell-Hashtags: #OnRunning #Cloudswift #GreySneakers #CityRunning
@@ -566,3 +566,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-15 09:10 | On Cloud 5 „Sand" (Seitenansicht) | 1 | 1100285752849407189 |
 | 2026-10-15 20:10 | On Cloud 5 „Light Grey" (Seitenansicht) | 1 | 1100285752849437086 |
 | 2026-10-16 09:09 | On Cloudswift „Sand" | 1 | 1100285752849488774 |
+| 2026-10-16 20:17 | On Cloudswift „Light Grey" | 1 | 1100285752849523749 |
