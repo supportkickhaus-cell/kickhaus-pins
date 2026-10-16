@@ -127,7 +127,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Light grey Cloud 5 with the classic CloudTec pods. The easiest On to wear.
 - Modell-Hashtags: #OnRunning #Cloud5 #GreySneakers #EverydayShoes
 
-### 20. On Cloudswift „Sand" — Status: offen
+### 20. On Cloudswift „Sand" — Status: gepostet
 - Bilder: `kickhouse_60_on_cloudswift_sand.jpg`
 - Modelltext: Full sand Cloudswift. Grip for pavement, cushioning for the long way home.
 - Modell-Hashtags: #OnRunning #Cloudswift #SandSneakers #RoadRunning
@@ -565,3 +565,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-13 09:10 | On Cloudswift „Sand/Olive" | 1 | 1100285752849242360 |
 | 2026-10-15 09:10 | On Cloud 5 „Sand" (Seitenansicht) | 1 | 1100285752849407189 |
 | 2026-10-15 20:10 | On Cloud 5 „Light Grey" (Seitenansicht) | 1 | 1100285752849437086 |
+| 2026-10-16 09:09 | On Cloudswift „Sand" | 1 | 1100285752849488774 |
