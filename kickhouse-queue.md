@@ -142,7 +142,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Cloudrunner in sand, the stability pick in the lineup. Wide base, soft ride.
 - Modell-Hashtags: #OnRunning #Cloudrunner #SandSneakers #RunningShoes
 
-### 23. On Cloudeclipse „Grey" — Status: offen
+### 23. On Cloudeclipse „Grey" — Status: gepostet
 - Bilder: `kickhouse_63_on_cloudeclipse_grey.jpg`
 - Modelltext: Double CloudTec layer in grey. The most cushioning On puts under a road shoe.
 - Modell-Hashtags: #OnRunning #Cloudeclipse #GreySneakers #MaxCushion
@@ -568,3 +568,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-16 09:09 | On Cloudswift „Sand" | 1 | 1100285752849488774 |
 | 2026-10-16 20:17 | On Cloudswift „Light Grey" | 1 | 1100285752849523749 |
 | 2026-10-17 09:10 | On Cloudrunner „Sand" | 1 | 1100285752849577874 |
+| 2026-10-17 20:04 | On Cloudeclipse „Grey" | 1 | 1100285752849611320 |
