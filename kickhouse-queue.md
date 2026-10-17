@@ -137,7 +137,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Light grey Cloudswift with moulded side bands. Built for city pavement.
 - Modell-Hashtags: #OnRunning #Cloudswift #GreySneakers #CityRunning
 
-### 22. On Cloudrunner „Sand" — Status: offen
+### 22. On Cloudrunner „Sand" — Status: gepostet
 - Bilder: `kickhouse_62_on_cloudrunner_sand.jpg`
 - Modelltext: Cloudrunner in sand, the stability pick in the lineup. Wide base, soft ride.
 - Modell-Hashtags: #OnRunning #Cloudrunner #SandSneakers #RunningShoes
@@ -567,3 +567,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-15 20:10 | On Cloud 5 „Light Grey" (Seitenansicht) | 1 | 1100285752849437086 |
 | 2026-10-16 09:09 | On Cloudswift „Sand" | 1 | 1100285752849488774 |
 | 2026-10-16 20:17 | On Cloudswift „Light Grey" | 1 | 1100285752849523749 |
+| 2026-10-17 09:10 | On Cloudrunner „Sand" | 1 | 1100285752849577874 |
