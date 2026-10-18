@@ -70,3 +70,4 @@ alt_text = Modelltitel. Niemals THE-CLOC-Texte oder die CLOC-WhatsApp-Nummer ver
 | 2026-10-17 10:10 | kickhouse_75_on_track-spike_white.jpg | On Track Spike „White" | https://www.instagram.com/p/DelAQrCAHjG/ |
 | 2026-10-17 14:10 | kickhouse_74_on_cloudmonster_white-lime.jpg | On Cloudmonster „White/Lime" | https://www.instagram.com/p/DelbqipFRDM/ |
 | 2026-10-17 20:11 | kickhouse_73_on_cloudrunner_light-grey.jpg | On Cloudrunner „Light Grey" | https://www.instagram.com/p/DemE8WwFWO9/ |
+| 2026-10-18 10:11 | kickhouse_72_on_cloud-5_white.jpg | On Cloud 5 „White" | https://www.instagram.com/p/DenlFlKgPFg/ |
