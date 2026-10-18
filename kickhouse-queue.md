@@ -147,7 +147,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Double CloudTec layer in grey. The most cushioning On puts under a road shoe.
 - Modell-Hashtags: #OnRunning #Cloudeclipse #GreySneakers #MaxCushion
 
-### 24. On Cloudsurfer „Light Grey" — Status: offen
+### 24. On Cloudsurfer „Light Grey" — Status: gepostet
 - Bilder: `kickhouse_64_on_cloudsurfer_light-grey.jpg`
 - Modelltext: Light grey Cloudsurfer. The wave sole does the work, you just roll forward.
 - Modell-Hashtags: #OnRunning #Cloudsurfer #GreySneakers #RunningShoes
@@ -569,3 +569,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-16 20:17 | On Cloudswift „Light Grey" | 1 | 1100285752849523749 |
 | 2026-10-17 09:10 | On Cloudrunner „Sand" | 1 | 1100285752849577874 |
 | 2026-10-17 20:04 | On Cloudeclipse „Grey" | 1 | 1100285752849611320 |
+| 2026-10-18 09:04 | On Cloudsurfer „Light Grey" | 1 | 1100285752849669548 |
