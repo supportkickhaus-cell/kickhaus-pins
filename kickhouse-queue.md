@@ -152,7 +152,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Light grey Cloudsurfer. The wave sole does the work, you just roll forward.
 - Modell-Hashtags: #OnRunning #Cloudsurfer #GreySneakers #RunningShoes
 
-### 25. On Cloudsurfer „Cream/Olive" — Status: offen
+### 25. On Cloudsurfer „Cream/Olive" — Status: gepostet
 - Bilder: `kickhouse_65_on_cloudsurfer_cream-2.jpg`
 - Modelltext: Cream Cloudsurfer with an olive heel. Warm neutral on a technical sole.
 - Modell-Hashtags: #OnRunning #Cloudsurfer #CreamSneakers #NeutralTones
@@ -570,3 +570,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-17 09:10 | On Cloudrunner „Sand" | 1 | 1100285752849577874 |
 | 2026-10-17 20:04 | On Cloudeclipse „Grey" | 1 | 1100285752849611320 |
 | 2026-10-18 09:04 | On Cloudsurfer „Light Grey" | 1 | 1100285752849669548 |
+| 2026-10-18 20:04 | On Cloudsurfer „Cream/Olive" | 1 | 1100285752849704613 |
