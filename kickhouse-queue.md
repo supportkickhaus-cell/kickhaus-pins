@@ -157,7 +157,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Cream Cloudsurfer with an olive heel. Warm neutral on a technical sole.
 - Modell-Hashtags: #OnRunning #Cloudsurfer #CreamSneakers #NeutralTones
 
-### 26. On Cloudboom „White" — Status: offen
+### 26. On Cloudboom „White" — Status: gepostet
 - Bilder: `kickhouse_66_on_cloudboom_white.jpg`
 - Modelltext: Race-day build in white. Stripped-down upper, plated sole, nothing you do not need.
 - Modell-Hashtags: #OnRunning #Cloudboom #RacingShoes #WhiteSneakers
@@ -571,3 +571,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-17 20:04 | On Cloudeclipse „Grey" | 1 | 1100285752849611320 |
 | 2026-10-18 09:04 | On Cloudsurfer „Light Grey" | 1 | 1100285752849669548 |
 | 2026-10-18 20:04 | On Cloudsurfer „Cream/Olive" | 1 | 1100285752849704613 |
+| 2026-10-19 09:03 | On Cloudboom „White" | 1 | 1100285752849759678 |
