@@ -167,7 +167,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Trail-ready Cloudvista in sand. Grippy outsole, protective toe, built for the path.
 - Modell-Hashtags: #OnRunning #Cloudvista #TrailShoes #SandSneakers
 
-### 28. On Cloudventure „White/Olive" — Status: offen
+### 28. On Cloudventure „White/Olive" — Status: gepostet
 - Bilder: `kickhouse_68_on_cloudventure_white-olive.jpg`
 - Modelltext: White and olive trail build with deep lugs. Made for loose ground.
 - Modell-Hashtags: #OnRunning #Cloudventure #TrailRunning #OliveSneakers
@@ -573,3 +573,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-18 20:04 | On Cloudsurfer „Cream/Olive" | 1 | 1100285752849704613 |
 | 2026-10-19 09:03 | On Cloudboom „White" | 1 | 1100285752849759678 |
 | 2026-10-19 20:06 | On Cloudvista „Sand" | 1 | 1100285752849792896 |
+| 2026-10-20 09:04 | On Cloudventure „White/Olive" | 1 | 1100285752849847513 |
