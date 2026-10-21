@@ -177,7 +177,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Sand upper, olive trim, full trail outsole. Off-road shoe that still looks clean.
 - Modell-Hashtags: #OnRunning #Cloudvista #TrailShoes #OutdoorStyle
 
-### 30. On Cloudvista „Grey/Olive" — Status: offen
+### 30. On Cloudvista „Grey/Olive" — Status: gepostet
 - Bilder: `kickhouse_70_on_cloudvista_grey-olive.jpg`
 - Modelltext: Grey and olive Cloudvista. Trail grip with a city-friendly palette.
 - Modell-Hashtags: #OnRunning #Cloudvista #TrailRunning #GreySneakers
@@ -575,3 +575,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-19 20:06 | On Cloudvista „Sand" | 1 | 1100285752849792896 |
 | 2026-10-20 09:04 | On Cloudventure „White/Olive" | 1 | 1100285752849847513 |
 | 2026-10-20 20:05 | On Cloudvista „Sand/Olive" | 1 | 1100285752849877101 |
+| 2026-10-21 09:03 | On Cloudvista „Grey/Olive" | 1 | 1100285752849931158 |
