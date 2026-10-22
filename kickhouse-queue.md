@@ -182,7 +182,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Grey and olive Cloudvista. Trail grip with a city-friendly palette.
 - Modell-Hashtags: #OnRunning #Cloudvista #TrailRunning #GreySneakers
 
-### 31. On Cloudrunner „Cream" — Status: offen
+### 31. On Cloudrunner „Cream" — Status: gepostet
 - Bilder: `kickhouse_71_on_cloudrunner_cream.jpg`
 - Modelltext: Cream Cloudrunner with a grey heel. Stable, soft, built for daily mileage.
 - Modell-Hashtags: #OnRunning #Cloudrunner #CreamSneakers #DailyTrainer
@@ -576,3 +576,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-20 09:04 | On Cloudventure „White/Olive" | 1 | 1100285752849847513 |
 | 2026-10-20 20:05 | On Cloudvista „Sand/Olive" | 1 | 1100285752849877101 |
 | 2026-10-21 09:03 | On Cloudvista „Grey/Olive" | 1 | 1100285752849931158 |
+| 2026-10-22 09:03 | On Cloudrunner „Cream" | 1 | 1100285752850022030 |
