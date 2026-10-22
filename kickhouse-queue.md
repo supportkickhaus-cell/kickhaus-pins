@@ -187,7 +187,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Cream Cloudrunner with a grey heel. Stable, soft, built for daily mileage.
 - Modell-Hashtags: #OnRunning #Cloudrunner #CreamSneakers #DailyTrainer
 
-### 32. On Cloud 5 „White" — Status: offen
+### 32. On Cloud 5 „White" — Status: gepostet
 - Bilder: `kickhouse_72_on_cloud-5_white.jpg`
 - Modelltext: All-white Cloud 5. The cleanest On in the range, and the hardest to keep that way.
 - Modell-Hashtags: #OnRunning #Cloud5 #WhiteSneakers #CleanKicks
@@ -577,3 +577,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-20 20:05 | On Cloudvista „Sand/Olive" | 1 | 1100285752849877101 |
 | 2026-10-21 09:03 | On Cloudvista „Grey/Olive" | 1 | 1100285752849931158 |
 | 2026-10-22 09:03 | On Cloudrunner „Cream" | 1 | 1100285752850022030 |
+| 2026-10-22 20:05 | On Cloud 5 „White" | 1 | 1100285752850054668 |
