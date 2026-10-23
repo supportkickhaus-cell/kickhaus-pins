@@ -197,7 +197,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Light grey Cloudrunner. Wide CloudTec base, the comfortable end of the lineup.
 - Modell-Hashtags: #OnRunning #Cloudrunner #GreySneakers #ComfortShoes
 
-### 34. On Cloudmonster „White/Lime" — Status: offen
+### 34. On Cloudmonster „White/Lime" — Status: gepostet
 - Bilder: `kickhouse_74_on_cloudmonster_white-lime.jpg`
 - Modelltext: Cloudmonster in white with lime flashes in the sole. Maximum stack, minimum weight.
 - Modell-Hashtags: #OnRunning #Cloudmonster #LimeAccents #RunningShoes
@@ -579,3 +579,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-22 09:03 | On Cloudrunner „Cream" | 1 | 1100285752850022030 |
 | 2026-10-22 20:05 | On Cloud 5 „White" | 1 | 1100285752850054668 |
 | 2026-10-23 09:03 | On Cloudrunner „Light Grey" | 1 | 1100285752850114757 |
+| 2026-10-23 21:14 | On Cloudmonster „White/Lime" | 1 | 1100285752850161472 |
