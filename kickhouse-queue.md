@@ -192,7 +192,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: All-white Cloud 5. The cleanest On in the range, and the hardest to keep that way.
 - Modell-Hashtags: #OnRunning #Cloud5 #WhiteSneakers #CleanKicks
 
-### 33. On Cloudrunner „Light Grey" — Status: offen
+### 33. On Cloudrunner „Light Grey" — Status: gepostet
 - Bilder: `kickhouse_73_on_cloudrunner_light-grey.jpg`
 - Modelltext: Light grey Cloudrunner. Wide CloudTec base, the comfortable end of the lineup.
 - Modell-Hashtags: #OnRunning #Cloudrunner #GreySneakers #ComfortShoes
@@ -578,3 +578,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-21 09:03 | On Cloudvista „Grey/Olive" | 1 | 1100285752849931158 |
 | 2026-10-22 09:03 | On Cloudrunner „Cream" | 1 | 1100285752850022030 |
 | 2026-10-22 20:05 | On Cloud 5 „White" | 1 | 1100285752850054668 |
+| 2026-10-23 09:03 | On Cloudrunner „Light Grey" | 1 | 1100285752850114757 |
