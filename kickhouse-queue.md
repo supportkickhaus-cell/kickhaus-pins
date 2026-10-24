@@ -207,7 +207,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Spiked plate, featherweight upper, built for one thing only. Track day.
 - Modell-Hashtags: #OnRunning #TrackSpikes #Athletics #WhiteSneakers
 
-### 36. On Cloudrunner „Grey" — Status: offen
+### 36. On Cloudrunner „Grey" — Status: gepostet
 - Bilder: `kickhouse_76_on_cloudrunner_grey.jpg`
 - Modelltext: Grey Cloudrunner with a dark heel. Steady, cushioned, no fuss.
 - Modell-Hashtags: #OnRunning #Cloudrunner #GreySneakers #RunningShoes
@@ -581,3 +581,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-23 09:03 | On Cloudrunner „Light Grey" | 1 | 1100285752850114757 |
 | 2026-10-23 21:14 | On Cloudmonster „White/Lime" | 1 | 1100285752850161472 |
 | 2026-10-24 09:03 | On Track Spike „White" | 1 | 1100285752850217530 |
+| 2026-10-24 20:03 | On Cloudrunner „Grey" | 1 | 1100285752850258726 |
