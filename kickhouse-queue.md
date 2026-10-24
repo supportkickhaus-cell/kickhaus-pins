@@ -202,7 +202,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Cloudmonster in white with lime flashes in the sole. Maximum stack, minimum weight.
 - Modell-Hashtags: #OnRunning #Cloudmonster #LimeAccents #RunningShoes
 
-### 35. On Track Spike „White" — Status: offen
+### 35. On Track Spike „White" — Status: gepostet
 - Bilder: `kickhouse_75_on_track-spike_white.jpg`
 - Modelltext: Spiked plate, featherweight upper, built for one thing only. Track day.
 - Modell-Hashtags: #OnRunning #TrackSpikes #Athletics #WhiteSneakers
@@ -580,3 +580,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-22 20:05 | On Cloud 5 „White" | 1 | 1100285752850054668 |
 | 2026-10-23 09:03 | On Cloudrunner „Light Grey" | 1 | 1100285752850114757 |
 | 2026-10-23 21:14 | On Cloudmonster „White/Lime" | 1 | 1100285752850161472 |
+| 2026-10-24 09:03 | On Track Spike „White" | 1 | 1100285752850217530 |
