@@ -217,7 +217,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: White Cloudsurfer with the sculpted wave midsole. Pure rolling motion.
 - Modell-Hashtags: #OnRunning #Cloudsurfer #WhiteSneakers #RunningShoes
 
-### 38. On Cloudsurfer „Cream/Grey" — Status: offen
+### 38. On Cloudsurfer „Cream/Grey" — Status: gepostet
 - Bilder: `kickhouse_78_on_cloudsurfer_cream-3.jpg`
 - Modelltext: Cream Cloudsurfer with a grey heel clip. Warm tone, technical build.
 - Modell-Hashtags: #OnRunning #Cloudsurfer #CreamSneakers #NeutralTones
@@ -583,3 +583,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-24 09:03 | On Track Spike „White" | 1 | 1100285752850217530 |
 | 2026-10-24 20:03 | On Cloudrunner „Grey" | 1 | 1100285752850258726 |
 | 2026-10-25 09:03 | On Cloudsurfer „White" | 1 | 1100285752850326522 |
+| 2026-10-25 20:04 | On Cloudsurfer „Cream/Grey" | 1 | 1100285752850366093 |
