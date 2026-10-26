@@ -222,7 +222,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Cream Cloudsurfer with a grey heel clip. Warm tone, technical build.
 - Modell-Hashtags: #OnRunning #Cloudsurfer #CreamSneakers #NeutralTones
 
-### 39. On Cloudrunner „White" — Status: offen
+### 39. On Cloudrunner „White" — Status: gepostet
 - Bilder: `kickhouse_79_on_cloudrunner_white.jpg`
 - Modelltext: White Cloudrunner, name printed right on the midsole. Stability done quietly.
 - Modell-Hashtags: #OnRunning #Cloudrunner #WhiteSneakers #StabilityShoes
@@ -584,3 +584,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-24 20:03 | On Cloudrunner „Grey" | 1 | 1100285752850258726 |
 | 2026-10-25 09:03 | On Cloudsurfer „White" | 1 | 1100285752850326522 |
 | 2026-10-25 20:04 | On Cloudsurfer „Cream/Grey" | 1 | 1100285752850366093 |
+| 2026-10-26 09:03 | On Cloudrunner „White" | 1 | 1100285752850426075 |
