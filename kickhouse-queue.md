@@ -227,7 +227,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: White Cloudrunner, name printed right on the midsole. Stability done quietly.
 - Modell-Hashtags: #OnRunning #Cloudrunner #WhiteSneakers #StabilityShoes
 
-### 40. On Cloudswift „Grey" — Status: offen
+### 40. On Cloudswift „Grey" — Status: gepostet
 - Bilder: `kickhouse_80_on_cloudswift_grey.jpg`
 - Modelltext: Grey Cloudswift with moulded overlays. City shoe that handles concrete all week.
 - Modell-Hashtags: #OnRunning #Cloudswift #GreySneakers #CityRunning
@@ -585,3 +585,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-25 09:03 | On Cloudsurfer „White" | 1 | 1100285752850326522 |
 | 2026-10-25 20:04 | On Cloudsurfer „Cream/Grey" | 1 | 1100285752850366093 |
 | 2026-10-26 09:03 | On Cloudrunner „White" | 1 | 1100285752850426075 |
+| 2026-10-26 20:46 | On Cloudswift „Grey" | 1 | 1100285752850465307 |
