@@ -232,7 +232,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Grey Cloudswift with moulded overlays. City shoe that handles concrete all week.
 - Modell-Hashtags: #OnRunning #Cloudswift #GreySneakers #CityRunning
 
-### 41. On Cloudboom Strike „White/Orange" — Status: offen
+### 41. On Cloudboom Strike „White/Orange" — Status: gepostet
 - Bilder: `kickhouse_81_on_cloudboom-strike_white-orange.jpg`
 - Modelltext: Race shoe in white with an orange fade. Plated sole, built for the clock.
 - Modell-Hashtags: #OnRunning #CloudboomStrike #RacingShoes #OrangeAccents
@@ -586,3 +586,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-25 20:04 | On Cloudsurfer „Cream/Grey" | 1 | 1100285752850366093 |
 | 2026-10-26 09:03 | On Cloudrunner „White" | 1 | 1100285752850426075 |
 | 2026-10-26 20:46 | On Cloudswift „Grey" | 1 | 1100285752850465307 |
+| 2026-10-27 09:03 | On Cloudboom Strike „White/Orange" | 1 | 1100285752850520839 |
