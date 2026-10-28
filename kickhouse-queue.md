@@ -242,7 +242,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Cloudboom Strike from the side. Orange gradient, speed plate, race-day only.
 - Modell-Hashtags: #OnRunning #CloudboomStrike #Marathon #RacingShoes
 
-### 43. On Cloudsurfer Trail „Sand/Olive" — Status: offen
+### 43. On Cloudsurfer Trail „Sand/Olive" — Status: gepostet
 - Bilder: `kickhouse_83_on_cloudsurfer-trail_sand-olive.jpg`
 - Modelltext: Trail version of the Cloudsurfer in sand and olive. CloudTec Phase, off-road grip.
 - Modell-Hashtags: #OnRunning #CloudsurferTrail #TrailShoes #OliveSneakers
@@ -588,3 +588,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-26 20:46 | On Cloudswift „Grey" | 1 | 1100285752850465307 |
 | 2026-10-27 09:03 | On Cloudboom Strike „White/Orange" | 1 | 1100285752850520839 |
 | 2026-10-27 20:05 | On Cloudboom Strike „White/Orange" (Seitenansicht) | 1 | 1100285752850550135 |
+| 2026-10-28 11:26 | On Cloudsurfer Trail „Sand/Olive" | 1 | 1100285752850613564 |
