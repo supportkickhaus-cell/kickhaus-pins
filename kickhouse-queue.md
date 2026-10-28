@@ -247,7 +247,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Trail version of the Cloudsurfer in sand and olive. CloudTec Phase, off-road grip.
 - Modell-Hashtags: #OnRunning #CloudsurferTrail #TrailShoes #OliveSneakers
 
-### 44. On Cloudvista „Sand/Olive" (Seitenansicht) — Status: offen
+### 44. On Cloudvista „Sand/Olive" (Seitenansicht) — Status: gepostet
 - Bilder: `kickhouse_84_on_cloudvista_sand-olive-2.jpg`
 - Modelltext: Sand and olive Cloudvista, built for mixed ground. Light trail shoe, heavy grip.
 - Modell-Hashtags: #OnRunning #Cloudvista #TrailRunning #SandSneakers
@@ -589,3 +589,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-27 09:03 | On Cloudboom Strike „White/Orange" | 1 | 1100285752850520839 |
 | 2026-10-27 20:05 | On Cloudboom Strike „White/Orange" (Seitenansicht) | 1 | 1100285752850550135 |
 | 2026-10-28 11:26 | On Cloudsurfer Trail „Sand/Olive" | 1 | 1100285752850613564 |
+| 2026-10-28 20:07 | On Cloudvista „Sand/Olive" (Seitenansicht) | 1 | 1100285752850639105 |
