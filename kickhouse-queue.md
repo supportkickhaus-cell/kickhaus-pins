@@ -252,7 +252,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Sand and olive Cloudvista, built for mixed ground. Light trail shoe, heavy grip.
 - Modell-Hashtags: #OnRunning #Cloudvista #TrailRunning #SandSneakers
 
-### 45. On Cloudvista „Sand/Black" — Status: offen
+### 45. On Cloudvista „Sand/Black" — Status: gepostet
 - Bilder: `kickhouse_85_on_cloudvista_sand-black.jpg`
 - Modelltext: Sand upper with a black cage and olive sole. The toughest look in the trail range.
 - Modell-Hashtags: #OnRunning #Cloudvista #TrailShoes #OutdoorStyle
@@ -590,3 +590,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-27 20:05 | On Cloudboom Strike „White/Orange" (Seitenansicht) | 1 | 1100285752850550135 |
 | 2026-10-28 11:26 | On Cloudsurfer Trail „Sand/Olive" | 1 | 1100285752850613564 |
 | 2026-10-28 20:07 | On Cloudvista „Sand/Olive" (Seitenansicht) | 1 | 1100285752850639105 |
+| 2026-10-29 09:04 | On Cloudvista „Sand/Black" | 1 | 1100285752850692433 |
