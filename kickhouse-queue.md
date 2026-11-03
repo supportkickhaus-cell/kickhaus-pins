@@ -257,7 +257,7 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 - Modelltext: Sand upper with a black cage and olive sole. The toughest look in the trail range.
 - Modell-Hashtags: #OnRunning #Cloudvista #TrailShoes #OutdoorStyle
 
-### 46. On Cloud X „Light Grey" — Status: offen
+### 46. On Cloud X „Light Grey" — Status: gepostet
 - Bilder: `kickhouse_86_on_cloud-x_light-grey.jpg`
 - Modelltext: Light grey Cloud X. Training shoe with enough style to leave the gym in.
 - Modell-Hashtags: #OnRunning #CloudX #GreySneakers #TrainingShoes
@@ -591,3 +591,4 @@ Hinweis: Eintraege, deren Bild noch nicht im Repo liegt, stehen am Ende der List
 | 2026-10-28 11:26 | On Cloudsurfer Trail „Sand/Olive" | 1 | 1100285752850613564 |
 | 2026-10-28 20:07 | On Cloudvista „Sand/Olive" (Seitenansicht) | 1 | 1100285752850639105 |
 | 2026-10-29 09:04 | On Cloudvista „Sand/Black" | 1 | 1100285752850692433 |
+| 2026-11-03 09:03 | On Cloud X „Light Grey" | 1 | 1100285752851132038 |
